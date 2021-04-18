@@ -1,2 +1,2 @@
 # BMI-Calculator
->calculator by windowbuilder
+>calculator instructed by windowbuilder
