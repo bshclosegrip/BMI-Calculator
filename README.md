@@ -7,5 +7,5 @@
 # Function2 : Calation
 > calculate BMI, Bodyindex.
 
-Function3 : Excution
-estimate kill someone you do not like.
+# Function3 : Excution
+> estimate kill someone you do not like.
